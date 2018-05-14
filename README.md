@@ -1,4 +1,4 @@
 # React | Node - Express Boilerplate
 
 
-Single app running front-end & back-end
+Front-end & Back-end all at once
